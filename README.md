@@ -2,7 +2,8 @@
 
 ## Project summary
 
-Event page is a web application that allows users to create and manage events, including event creation, registration, payment processing, and ticket distribution. The project
+Event page is a web application that represents an exercise in learning Tanstack Query.
+Tanstack Query is a library that makes it easier to send HTTP requests and maintain synchronization between frontend user interface and backend data.
 
 ## Getting started
 
