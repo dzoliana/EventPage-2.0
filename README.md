@@ -5,6 +5,36 @@
 Event page is a web application that represents an exercise in learning Tanstack Query.
 Tanstack Query is a library that makes it easier to send HTTP requests and maintain synchronization between frontend user interface and backend data.
 
+<h4 align="center">Home page</h4>
+
+<p align="center">
+ <img src="/src/assets/Home.png" alt="drawing" width="500"/>
+</p>
+
+<h4 align="center">Add New Event</h4>
+
+<p align="center">
+ <img src="/src/assets/AddEvent.png" alt="drawing" width="500"/>
+</p>
+
+<h4 align="center">Event Details</h4>
+
+<p align="center">
+ <img src="/src/assets/EventDetails.png" alt="drawing" width="500"/>
+</p>
+
+<h4 align="center">Delete Event</h4>
+
+<p align="center">
+ <img src="/src/assets/DeleteEvent.png" alt="drawing" width="500"/>
+</p>
+
+<h4 align="center">Search Events</h4>
+
+<p align="center">
+ <img src="/src/assets/SearchEvents.png" alt="drawing" width="500"/>
+</p>
+
 ## Getting started
 
 _React + Vite_
